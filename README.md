@@ -9,7 +9,7 @@ https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/
 ## Library Dependencies:
 Install libraries with versions mentioned in requirements.txt before running the notebooks or deployment scripts.
 
-## Deploying the model locally
+## Deploying the model on your local system
 I have also added the code to deploy the model locally as a simple webpage, which is a form to collect details and predict outcome based on it. All the files needed are present in the Deployment folder. Follow these 2 steps for running the model:
 1. Fire up your command prompt,change directory to the Model Deployment folder and run the below command
 python app.py
